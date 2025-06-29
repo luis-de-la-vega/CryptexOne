@@ -18,6 +18,12 @@ It uses a secure **multi-platform hybrid encryption algorithm** based on AES and
 
 ---
 
+## 🖥️ GUI Preview
+
+![preview](images/preview.png)
+
+---
+
 ## 🛠 Installation (from source)
 
 ### ✅ Requirements
@@ -28,6 +34,7 @@ It uses a secure **multi-platform hybrid encryption algorithm** based on AES and
 ```bash
 pip install customtkinter tkinterdnd2 pillow cryptography
 ```
+---
 ## 💻 Running the App
 
 ```bash
@@ -46,6 +53,8 @@ pip install pyinstaller
 python -m PyInstaller cryptex_gui.spec
 ```
 - The output .exe will be found in the dist/CryptexOne/ folder.
+
+---
 
 ### 📦 Create a Custom Installer (Inno Setup)
 We recommend using Inno Setup to create a professional installer.
@@ -67,6 +76,8 @@ CryptexOne/
 ├── dist/                   # PyInstaller output
 ├── README.md               # This file
 ```
+
+---
 
 ## 🔐 License
 MIT License © 2025 — LuisDev_
