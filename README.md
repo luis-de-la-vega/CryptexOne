@@ -9,12 +9,12 @@ It uses a secure **multi-platform hybrid encryption algorithm** based on AES and
 
 ## 🚀 Features
 
-- Drag & Drop support for files
-- AES encryption with integrity check
-- Password-protected encryption
-- Custom progress bar and visual feedback
-- Multi-language and icon support
-- Custom installer (Inno Setup or NSIS ready)
+- 🧠 **Hybrid AES Encryption** with SHA-512 file signing
+- 🔒 **Password-based encryption** using PBKDF2 + salt
+- 📁 User-friendly file browser and password input
+- 📊 Real-time progress bar and logs
+- 🌓 Dark-themed modern GUI with icons
+- 🧰 Fully packaged as `.exe` (via PyInstaller + Inno Setup)
 
 ---
 
