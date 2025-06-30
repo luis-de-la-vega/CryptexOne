@@ -14,7 +14,6 @@ It uses a secure **multi-platform hybrid encryption algorithm** based on AES and
 - 📁 User-friendly file browser and password input
 - 📊 Real-time progress bar and logs
 - 🌓 Dark-themed modern GUI with icons
-- 🧰 Fully packaged as `.exe` (via PyInstaller + Inno Setup)
 
 ---
 
